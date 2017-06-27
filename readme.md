@@ -7,8 +7,20 @@ Multiselect with paper-dropdown-menu, based on polymer 2.0
 bower install paper-dropdown-menu-multi
 ```
 ## Usage
+<!--
+```
+<custom-element-demo>
+  <template>
+		<base href="https://raw-dot-custom-elements.appspot.com/tg9413/paper-dropdown-menu-multi/0.1.0/paper-dropdown-menu-multi/">
+		<script src="../webcomponentsjs/webcomponents-lite.js"></script>
+		<link rel="import" href="paper-dropdown-menu-multi.html">
+		<paper-dropdown-menu-multi label="Names" selections='["Sarah","Tessa","Hitaru"]' maxDisplay=3></paper-dropdown-menu-multi>
+  </template>
+</custom-element-demo>
+```
+-->
 ```html
-<paper-dropdown-menu-multi label="some label" selections="[...array...]" maxDisplay=3></paper-dropdown-menu-multi>
+<paper-dropdown-menu-multi label="some label" selections='[...array...]' maxDisplay=3></paper-dropdown-menu-multi>
 ```
 ## Credits
 Google Polymer team. 
