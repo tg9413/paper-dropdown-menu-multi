@@ -1,4 +1,4 @@
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/tg9413/paper-dropdown-menu-multi)
 
 # paper-dropdown-menu-multi
 Multiselect with paper-dropdown-menu, based on polymer 2.0
